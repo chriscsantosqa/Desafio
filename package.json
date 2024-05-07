@@ -1,0 +1,14 @@
+{
+  "name": "desafio-pgats",
+  "version": "1.0.0",
+  "description": "Desafio Programação para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Christopher C. Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
